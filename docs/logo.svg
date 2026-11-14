@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#0B1D33"/>
+  <!-- badge shield -->
+  <path d="M256 74 L392 122 V238 C392 330 334 398 256 432 C178 398 120 330 120 238 V122 Z" fill="#1F4E8C"/>
+  <path d="M256 74 L392 122 V238 C392 330 334 398 256 432 Z" fill="#2563B5"/>
+  <!-- scales of justice -->
+  <g stroke="#F2C14E" stroke-width="10" stroke-linecap="round" fill="none">
+    <path d="M256 150 V332"/>
+    <path d="M200 182 H312"/>
+    <path d="M200 182 L176 248 M200 182 L224 248"/>
+    <path d="M312 182 L288 248 M312 182 L336 248"/>
+    <path d="M220 332 H292"/>
+  </g>
+  <path d="M168 248 H232 C232 270 168 270 168 248 Z" fill="#F2C14E"/>
+  <path d="M280 248 H344 C344 270 280 270 280 248 Z" fill="#F2C14E"/>
+  <circle cx="256" cy="150" r="12" fill="#F2C14E"/>
+</svg>
